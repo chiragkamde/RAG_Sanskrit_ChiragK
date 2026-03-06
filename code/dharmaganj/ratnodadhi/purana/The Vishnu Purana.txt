@@ -1,0 +1,290 @@
+The Vishnu Purana Index | Internet Sacred Text Archive
+Sacred Texts
+Hinduism
+Buy this Book at Amazon.com
+The Vishnu Purana
+translated by Horace Hayman Wilson
+[1840]
+Contents
+Start Reading
+Page Index
+Text [Zipped]
+The Vishnu Purana is a primary sacred text of the Vaishnava branch
+of Hinduism, which today probably has more adherents than any other.
+It is one of the canonical Puranas, a branch of post-Vedic sacred
+literature which was first committed to writing during the first
+millennium of the common era.
+Like most of the other Puranas, this is
+a complete narrative from the creation
+of the current universe to its destruction.
+The chronology describes periods as long
+as a hundred trillion (1014) years!
+It includes extensive sections on the genealogy of the legendary
+kings, heroes and demigods of ancient India, including those from
+the epics, the Mahabharata and Ramayana.
+There are fascinating descriptions of ancient Hindu cosmology and geography.
+Of general interest is a collection of stories about the
+boyhood adventures of Krishna and Rama, whom the Vaishnavas believe
+to be avatars of Vishnu.
+There are also references to Buddhism and Jainism, which help establish
+the date of composition of the work.
+This is the first time that this work has appeared on the Internet in any form.
+H.H. Wilson was one of the first European scholars to produce
+a scholarly translation of a major Hindu sacred text.
+His translation employs clear English which
+modern readers will find very readable.
+There is very little
+of the pseudo-King James style,
+loved by 19th century orientalists (and loathed
+by modern scholars).
+The footnotes are extensive and very helpful, with comprehensive
+notes correlating the Vishnu Purana with other Puranas and Hindu texts.
+Unfortunately, good editions of this translation have
+largely been unavailable in print for many years.
+There are some re-typeset and heavily edited versions printed in India,
+of dubious quality, which I can't recommend.
+The copytext for this etext was a very expensive photographic
+reproduction of the original 1840 edition.
+This is part of a reprint series which may be obtainable from some
+larger urban and academic libraries.
+Production notes:
+As per site policy, I have attempted to match the printed
+edition's transliteration of Sanskrit exactly.
+This uses Unicode, so if you have trouble viewing some of the letters
+in this text, please refer to the
+Unicode help file.
+Wilson used a very simple transliteration system, just
+an acute accent for both long vowels and alternate consonants.
+He does not distinguish between the dental, palatal and
+anusvara variants of 'n', but this will only bother the sanscritologists.
+Although he applied this scheme fairly consistently, there are
+numerous variations in the transliteration of less-common Sanskrit proper nouns
+(particularly in the Index).
+I have not attempted to correct any of these variations except
+for a few obvious errors, which are indicated in the usual way by
+links to my errata file.
+There were numerous passages and words in the footnotes
+in Devanagari (the Sanskrit alphabet).
+I have created image files for these in the Preface.
+There were far too many of these in the body text to reproduce
+as images.
+So I have silently edited Devanagari out from the main text,
+altering punctuation where necessary.
+In most cases where he supplies a passage in Devanagari,
+he translates it in the immediate vicinity,
+so omitting these does not lose any information.
+In the rare case where such an
+omission would change the meaning of a sentence, I have
+inserted the placeholder '###' to indicate where a word or phrase
+in Devanagari was positioned.
+While proofing the Index, many errors in page references
+were silently corrected so that the page hyperlinks would work correctly.
+There are doubtless other remaining page number errors in the Index,
+some from OCR errors (the OCR software I use, OmniPage,
+has trouble recognizing digits in older typeset text),
+some, typically, in the copytext,
+so this part of the etext should be considered provisional.
+However, the body text has been subjected to three proof passes,
+so every effort has been made to produce a very accurate etext.
+--John Bruno Hare, March 15th, 2006.
+Title Page and Front Matter
+Preface
+Introduction
+Date of the Puráńas
+Form of the Puráńas
+Classification of the Puráńas
+1. The Brahmá Puráńa
+2. The Padma Puráńa
+3. The Vishńu Puráńa
+4. The Váyavíya Puráńa
+5. The Bhágavata Puráńa
+6. The Naradíya Puráńa
+7. The Márkańd́eya Puráńa
+8. The Agni Puráńa
+9. The Bhavishya Puráńa
+10. The Brahma-vaivartta Puráńa
+11. The Linga Puráńa
+12. The Varáha Puráńa
+13. The Skanda Puráńa
+14. The Vámana Puráńa
+15. The Kúrma Puráńa
+16. The Matsya Puráńa
+17. The Gárud́a Puráńa
+18. The Brahmáńd́a Puráńa
+The Upa-puráńas
+Synopsis of the Vishńu Puráńa
+Book One
+Book Two
+The Third Book
+The Fourth Book
+The Fifth Book
+The Sixth Book
+Date of the Vishńu Puráńa
+Conclusion
+Contents
+Corrections
+Book I
+Chapter I
+Chapter II
+Chapter III
+Chapter IV
+Chapter V
+Chapter VI
+Chapter VII
+Chapter VIII
+Sacrifice of Daksha (From the Váyu Puráńa)
+Chapter IX
+Chapter X
+Chapter XI
+Chapter XII
+Chapter XIII
+Chapter XIV
+Chapter XV
+Chapter XVI
+Chapter XVII
+Chapter XVIII
+Chapter XIX
+Chapter XX
+Chapter XXI
+Chapter XXII
+Book II
+Chapter I
+Chapter II
+Chapter III
+Topographical Lists from the Mahábhárata
+Chapter IV
+Chapter V
+Chapter VI
+Chapter VII
+Chapter VIII
+Chapter IX
+Chapter X
+Chapter XI
+Chapter XII
+Chapter XIII
+Chapter XIV
+Chapter XV
+Chapter XVI
+Book III
+Chapter I
+Chapter II
+Chapter III
+Chapter IV
+Chapter V
+Chapter VI
+Chapter VII
+Chapter VIII
+Chapter IX
+Chapter X
+Chapter XI
+Chapter XII
+Chapter XIII
+Chapter XIV
+Chapter XV
+Chapter XVI
+Chapter XVII
+Chapter XVIII
+Book IV
+Chapter I
+Chapter II
+Chapter III
+Chapter IV
+Chapter V
+Chapter IV
+Chapter VII
+Legend of Paraśuráma
+Chapter VIII
+Chapter IX
+Chapter X
+Chapter XI
+Chapter XII
+Chapter XIII
+Chapter XIV
+Chapter XV
+Chapter XVI
+Chapter XVII
+Chapter XVIII
+Chapter XIX
+Chapter XX
+Chapter XXI
+Chapter XXII
+Chapter XXIII
+Chapter XXIV
+Book V
+Chapter I
+Chapter II
+Chapter III
+Chapter IV
+Chapter V
+Chapter VI
+Chapter VII
+Chapter VIII
+Chapter IX
+Chapter X
+Chapter XI
+Chapter XII
+Chapter XIII
+Chapter XIV
+Chapter XV
+Chapter XVI
+Chapter XVII
+Chapter XVIII
+Chapter XIX
+Chapter XX
+Chapter XXI
+Chapter XXII
+Chapter XXIII
+Chapter XXVI
+Chapter XXV
+Chapter XXVI
+Chapter XXVII
+Chapter XXVIII
+Chapter XXIX
+Chapter XXX
+Chapter XXXI
+Chapter XXXII
+Chapter XXXIII
+Chapter XXXIV
+Chapter XXXV
+Chapter XXXVI
+Chapter XXXVII
+Chapter XXXVIII
+Book VI
+Chapter I
+Chapter II
+Chapter III
+Chapter IV
+Chapter V
+Chapter VI
+Chapter VII
+Chapter VIII
+Index
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+Y
+Sacred Texts |
+Hinduism
+« Previous: Errata
+Index
+Next: The Vishnu Purana: Page Index »

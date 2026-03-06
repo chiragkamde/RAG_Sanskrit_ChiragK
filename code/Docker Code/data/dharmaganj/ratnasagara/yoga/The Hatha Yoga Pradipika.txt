@@ -1,0 +1,43 @@
+Hatha Yoga Pradipika Index | Internet Sacred Text Archive
+Sacred Texts
+Hinduism
+Yoga
+Buy this Book at Amazon.com
+From The Hindu Pantheon, by Edward Moor [1810] (Public Domain Image)
+Hatha Yoga Pradipika
+tr. by Pancham Sinh
+[1914]
+Contents
+Start Reading
+Possibly the oldest extant text about Hatha Yoga,
+The Hatha Yoga Pradipika
+was written about the 15th century CE, by Swami Swatmarama, a disciple of
+Swami Goraknath.
+PRODUCTION NOTES: This edition incorporates the text of
+the 1914 Pancham Sinh translation and Devanagari and romanization
+of the Sanskrit text.
+The Sanskrit was derived from an ITRANS file from the Internet.
+The versification does not match up precisely with the Sanskrit
+text in the book, particularly in Chapter III.
+Therefore, I've attempted to match up the ITRANS verses with
+the verses in the book based on my limited reading knowledge of Sanskrit.
+This embedded ITRANS converter is still experimental: this book
+was essentially a pilot project for the feature.
+I welcome feedback about errors in the conversion of the ITRANS Sanskrit text
+to Unicode.
+Note that the Firefox browser has long-standing and still uncorrected problems
+displaying Unicode Devanagari, e.g. 'i' is displayed after the consonant,
+instead of preceding it.
+This is a known problem with Firefox and there is nothing we can do about it.--JBH
+Title Page
+Table of Contents
+Introduction
+Chapter 1. On Âsanas
+Chapter II. On Prâṇâyâma
+Chapter III. On Mudrâs
+Chapter IV. On Samâdhi.
+Sacred Texts |
+Hinduism
+« Previous: Hatha Yoga Pradipika: Chapter IV. On Sam&acirc;dhi.
+Index
+Next: Indian Fairy Tales: Title Page »

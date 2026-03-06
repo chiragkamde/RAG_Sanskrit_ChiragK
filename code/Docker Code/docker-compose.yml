@@ -1,0 +1,35 @@
+services:
+  chroma:
+    image: chromadb/chroma:latest
+    container_name: chroma-db
+    ports:
+      - "8000:8000" # FIXED: Set to standard port so ingest.py finds it
+    volumes:
+      - chroma_data:/chroma/chroma # FIXED: Modern Chroma persistence path
+    networks:
+      - nalanda-network
+
+  fastapi:
+    build: .
+    container_name: nalanda-api
+    ports:
+      - "8080:8000" # FIXED: Moved API to 8080 to avoid clashing with Chroma
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - CHROMA_HOST=chroma # Uses Docker internal DNS to find the container above
+      - CHROMA_PORT=8000
+    depends_on:
+      - chroma
+    volumes:
+      - ./data:/app/data
+    networks:
+      - nalanda-network
+    extra_hosts:
+      - "host.docker.internal:host-gateway" # The bridge to your MSI laptop's GPU
+
+volumes:
+  chroma_data:
+
+networks:
+  nalanda-network:
+    driver: bridge

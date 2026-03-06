@@ -1,0 +1,15 @@
+
+
+# API & Server
+fastapi
+uvicorn
+pydantic
+
+# Vector Database Client
+chromadb
+
+# LlamaIndex Core & Integrations
+llama-index
+llama-index-vector-stores-chroma
+llama-index-llms-ollama
+llama-index-embeddings-ollama

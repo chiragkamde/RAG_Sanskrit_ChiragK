@@ -1,0 +1,668 @@
+{
+    "version": "1.0",
+    "buildings": [
+        "bagdevibhandar",
+        "ratnodadhi",
+        "ratnasagara",
+        "ratnaranjaka"
+    ],
+    "catalog": [
+        {
+            "filename": "vedic_corpus_part_1.txt",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "shruti",
+            "path": "dharmaganj/ratnodadhi/shruti/raw/vedic_corpus_part_1.txt",
+            "lipi": "Devanagari",
+            "shakha": "Multiple",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vedic_corpus_part_2.txt",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "shruti",
+            "path": "dharmaganj/ratnodadhi/shruti/raw/vedic_corpus_part_2.txt",
+            "lipi": "Devanagari",
+            "shakha": "Multiple",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vedic_corpus_part_3.txt",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "shruti",
+            "path": "dharmaganj/ratnodadhi/shruti/raw/vedic_corpus_part_3.txt",
+            "lipi": "Devanagari",
+            "shakha": "Multiple",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vedic_corpus_part_4.txt",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "shruti",
+            "path": "dharmaganj/ratnodadhi/shruti/raw/vedic_corpus_part_4.txt",
+            "lipi": "Devanagari",
+            "shakha": "Multiple",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vedic_corpus_part_5.txt",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "shruti",
+            "path": "dharmaganj/ratnodadhi/shruti/raw/vedic_corpus_part_5.txt",
+            "lipi": "Devanagari",
+            "shakha": "Multiple",
+            "bhashya": "None"
+        },
+        {
+            "filename": "Research_Paper_on_dataset_translation_2021-wat-1.22.pdf",
+            "nalanda_building": "bagdevibhandar",
+            "subject_domain": "schema_definitions",
+            "path": "dharmaganj/bagdevibhandar/schema_definitions/Research_Paper_on_dataset_translation_2021-wat-1.22.pdf",
+            "lipi": "Latin",
+            "shakha": "Academic",
+            "bhashya": "Reference"
+        },
+        {
+            "filename": "arunadatta-sarvangasundara.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/arunadatta-sarvangasundara.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "astangahrdayasamhita.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/astangahrdayasamhita.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "astangasangraha.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/astangasangraha.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "ayurvedasutram.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/ayurvedasutram.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "bhelasamhita.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/bhelasamhita.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "cakradatta.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/cakradatta.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "cakrapanidatta-ayurvedadipika.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/cakrapanidatta-ayurvedadipika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "carakasamhita.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/carakasamhita.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "govindabhagavatpada-rasahrdayatantra.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/govindabhagavatpada-rasahrdayatantra.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "nityanatha-rasaratnakara-rasayanakhanda.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/nityanatha-rasaratnakara-rasayanakhanda.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "rasarnava.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/rasarnava.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "siddhayoga.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/siddhayoga.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "susrutasamhita.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/susrutasamhita.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "ugraditya-kalyanakaraka.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/ugraditya-kalyanakaraka.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vagbhata-rasaratnasamuccaya-comms.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "cikitsavidya",
+            "path": "dharmaganj/ratnasagara/cikitsavidya/raw/vagbhata-rasaratnasamuccaya-comms.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "avayavinirakarana.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/avayavinirakarana.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "dharmottarapradipa.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/dharmottarapradipa.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "dharmottaratippanaka.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/dharmottaratippanaka.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "jitari-isvaravadimatapariksa.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/jitari-isvaravadimatapariksa.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "jitari-jatinirakrti.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/jitari-jatinirakrti.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "jitari-nairatmyasiddhi.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/jitari-nairatmyasiddhi.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "jitari-sarvajnasiddhi.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/jitari-sarvajnasiddhi.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "jitari-vedapramanyasiddhi.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/jitari-vedapramanyasiddhi.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "jnanasrimitra-nibandhavali.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/jnanasrimitra-nibandhavali.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "nyayakumudacandra.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/nyayakumudacandra.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "nyayamanjari.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/nyayamanjari.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "nyayasudha.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/nyayasudha.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "nyayavarttikatatparyatika.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/nyayavarttikatatparyatika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "pramanamimamsa-and-vrtti.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/pramanamimamsa-and-vrtti.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "pramanantarbhava.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/pramanantarbhava.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "pramanavarttikalankarabhasya.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/pramanavarttikalankarabhasya.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "pramanavarttikaparisista-1.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/pramanavarttikaparisista-1.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "pramanavarttikasvavrttitika.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/pramanavarttikasvavrttitika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "pramanavarttikavrtti.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/pramanavarttikavrtti.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "ratnakirti-nibandhavali.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/ratnakirti-nibandhavali.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "samanyadusana.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/samanyadusana.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "siddhiviniscayatika.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/siddhiviniscayatika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "tarkabhasa.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/tarkabhasa.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "tarkarahasya.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/tarkarahasya.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "tattvasangrahapanjika.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/tattvasangrahapanjika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vadanyayatika.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/vadanyayatika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vadasthana.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/vadasthana.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vatsyayana-nyayabhasya.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "nyaya_pramana",
+            "path": "dharmaganj/ratnasagara/nyaya_pramana/raw/vatsyayana-nyayabhasya.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "bhartrhari-vakyapadiya.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "vyakarana",
+            "path": "dharmaganj/ratnasagara/vyakarana/raw/bhartrhari-vakyapadiya.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "bhattojidiksita-siddhantakaumudi.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "vyakarana",
+            "path": "dharmaganj/ratnasagara/vyakarana/raw/bhattojidiksita-siddhantakaumudi.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "kautalyarthasastra.xml",
+            "nalanda_building": "ratnasagara",
+            "subject_domain": "arthashastra",
+            "path": "dharmaganj/ratnasagara/arthashastra/raw/kautalyarthasastra.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "brahmapurana.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "purana",
+            "path": "dharmaganj/ratnaranjaka/purana/raw/brahmapurana.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "skandapurana.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "purana",
+            "path": "dharmaganj/ratnaranjaka/purana/raw/skandapurana.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "asvaghosa-buddhacarita.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "kavya",
+            "path": "dharmaganj/ratnaranjaka/kavya/raw/asvaghosa-buddhacarita.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "bana-kadambari.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "kavya",
+            "path": "dharmaganj/ratnaranjaka/kavya/raw/bana-kadambari.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "dasarupaka.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "kavya",
+            "path": "dharmaganj/ratnaranjaka/kavya/raw/dasarupaka.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "nivajakavi-sakuntala-upakhyana.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "kavya",
+            "path": "dharmaganj/ratnaranjaka/kavya/raw/nivajakavi-sakuntala-upakhyana.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "pravarasena-setubandha.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "kavya",
+            "path": "dharmaganj/ratnaranjaka/kavya/raw/pravarasena-setubandha.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "sridharadasa-saduktikarnamrta.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "kavya",
+            "path": "dharmaganj/ratnaranjaka/kavya/raw/sridharadasa-saduktikarnamrta.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "trivikrama-nalacampu.xml",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "kavya",
+            "path": "dharmaganj/ratnaranjaka/kavya/raw/trivikrama-nalacampu.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "astavakragita.xml",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "sutra",
+            "path": "dharmaganj/ratnodadhi/sutra/raw/astavakragita.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "kumarila-tantravarttika.xml",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "sutra",
+            "path": "dharmaganj/ratnodadhi/sutra/raw/kumarila-tantravarttika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "patanjalayogasastra.xml",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "sutra",
+            "path": "dharmaganj/ratnodadhi/sutra/raw/patanjalayogasastra.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "sarvadarsanasangraha.xml",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "sutra",
+            "path": "dharmaganj/ratnodadhi/sutra/raw/sarvadarsanasangraha.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "vidhiviveka-and-nyayakanika.xml",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "sutra",
+            "path": "dharmaganj/ratnodadhi/sutra/raw/vidhiviveka-and-nyayakanika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "jnanadasa-aparoksanubhava-tika.xml",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "upanishad",
+            "path": "dharmaganj/ratnodadhi/upanishad/raw/jnanadasa-aparoksanubhava-tika.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "madhusudanasarasvati-atmabodhaprakarana.xml",
+            "nalanda_building": "ratnodadhi",
+            "subject_domain": "upanishad",
+            "path": "dharmaganj/ratnodadhi/upanishad/raw/madhusudanasarasvati-atmabodhaprakarana.xml",
+            "lipi": "Devanagari",
+            "shakha": "SARIT",
+            "bhashya": "None"
+        },
+        {
+            "filename": "itihasa_corpus_v2_part_1.txt",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "itihasa",
+            "path": "dharmaganj/ratnaranjaka/itihasa/raw/itihasa_corpus_v2_part_1.txt",
+            "lipi": "Devanagari",
+            "shakha": "Traditional",
+            "bhashya": "None"
+        },
+        {
+            "filename": "itihasa_corpus_v2_part_2.txt",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "itihasa",
+            "path": "dharmaganj/ratnaranjaka/itihasa/raw/itihasa_corpus_v2_part_2.txt",
+            "lipi": "Devanagari",
+            "shakha": "Traditional",
+            "bhashya": "None"
+        },
+        {
+            "filename": "itihasa_corpus_v2_part_3.txt",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "itihasa",
+            "path": "dharmaganj/ratnaranjaka/itihasa/raw/itihasa_corpus_v2_part_3.txt",
+            "lipi": "Devanagari",
+            "shakha": "Traditional",
+            "bhashya": "None"
+        },
+        {
+            "filename": "itihasa_corpus_v2_part_4.txt",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "itihasa",
+            "path": "dharmaganj/ratnaranjaka/itihasa/raw/itihasa_corpus_v2_part_4.txt",
+            "lipi": "Devanagari",
+            "shakha": "Traditional",
+            "bhashya": "None"
+        },
+        {
+            "filename": "itihasa_corpus_v2_part_5.txt",
+            "nalanda_building": "ratnaranjaka",
+            "subject_domain": "itihasa",
+            "path": "dharmaganj/ratnaranjaka/itihasa/raw/itihasa_corpus_v2_part_5.txt",
+            "lipi": "Devanagari",
+            "shakha": "Traditional",
+            "bhashya": "None"
+        }
+    ]
+}

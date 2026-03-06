@@ -1,0 +1,411 @@
+{
+  "total_files": 70,
+  "migrated": 70,
+  "failed": 0,
+  "details": {
+    "Vedas": {
+      "source": "sacred_texts_hindu\\Vedas",
+      "target": "dharmaganj/ratnodadhi/shruti",
+      "files": [
+        {
+          "filename": "A Vedic Reader for Students.txt",
+          "status": "migrated",
+          "size": 117208
+        },
+        {
+          "filename": "Rig-Veda Sanskrit.txt",
+          "status": "migrated",
+          "size": 1415
+        },
+        {
+          "filename": "The Atharva-Veda SBE 42.txt",
+          "status": "migrated",
+          "size": 13486
+        },
+        {
+          "filename": "The Hymns of the Atharvaveda.txt",
+          "status": "migrated",
+          "size": 1055
+        },
+        {
+          "filename": "The Sama-Veda.txt",
+          "status": "migrated",
+          "size": 254902
+        },
+        {
+          "filename": "The Texts of the White Yajurveda.txt",
+          "status": "migrated",
+          "size": 2021
+        },
+        {
+          "filename": "Vedic Hymns Part I SBE 32.txt",
+          "status": "migrated",
+          "size": 4535
+        },
+        {
+          "filename": "Vedic Hymns Part II SBE 46.txt",
+          "status": "migrated",
+          "size": 2635
+        }
+      ]
+    },
+    "Upanishads": {
+      "source": "sacred_texts_hindu\\Upanishads",
+      "target": "dharmaganj/ratnodadhi/upanishad",
+      "files": [
+        {
+          "filename": "From the Upanishads.txt",
+          "status": "migrated",
+          "size": 676
+        },
+        {
+          "filename": "The Upanishads Part I SBE 1.txt",
+          "status": "migrated",
+          "size": 3702
+        },
+        {
+          "filename": "The Upanishads Part II SBE 15.txt",
+          "status": "migrated",
+          "size": 1980
+        },
+        {
+          "filename": "The Upanishads.txt",
+          "status": "migrated",
+          "size": 2358
+        },
+        {
+          "filename": "Thirty Minor Upanishads.txt",
+          "status": "migrated",
+          "size": 2247
+        }
+      ]
+    },
+    "Bhagavad Gita": {
+      "source": "sacred_texts_hindu\\Bhagavad Gita",
+      "target": "dharmaganj/ratnodadhi/srimadbhagavadgita",
+      "files": [
+        {
+          "filename": "Srimad-Bhagavad-Gita.txt",
+          "status": "migrated",
+          "size": 2269
+        },
+        {
+          "filename": "The Bhagavad Gita Edwin Arnold.txt",
+          "status": "migrated",
+          "size": 2001
+        },
+        {
+          "filename": "The Bhagavad Gita in Sanskrit.txt",
+          "status": "migrated",
+          "size": 1718
+        },
+        {
+          "filename": "The Bhagavad Gita International Gita Society.txt",
+          "status": "migrated",
+          "size": 140915
+        },
+        {
+          "filename": "The Bhagavadgîtâ SBE 8.txt",
+          "status": "migrated",
+          "size": 1308
+        }
+      ]
+    },
+    "Puranas": {
+      "source": "sacred_texts_hindu\\Puranas",
+      "target": "dharmaganj/ratnodadhi/purana",
+      "files": [
+        {
+          "filename": "Kundalini The Mother of the Universe.txt",
+          "status": "migrated",
+          "size": 1592
+        },
+        {
+          "filename": "The Devî Gita.txt",
+          "status": "migrated",
+          "size": 1301
+        },
+        {
+          "filename": "The Garuda Purana.txt",
+          "status": "migrated",
+          "size": 3419
+        },
+        {
+          "filename": "The Srimad Devî Bhâgawatam.txt",
+          "status": "migrated",
+          "size": 4210
+        },
+        {
+          "filename": "The Vishnu Purana.txt",
+          "status": "migrated",
+          "size": 7132
+        }
+      ]
+    },
+    "Epics": {
+      "source": "sacred_texts_hindu\\Epics",
+      "target": "dharmaganj/ratnaranjaka/itihasa",
+      "files": [
+        {
+          "filename": "Indian Idylls.txt",
+          "status": "migrated",
+          "size": 251351
+        },
+        {
+          "filename": "Love and Death.txt",
+          "status": "migrated",
+          "size": 748
+        },
+        {
+          "filename": "Rámáyan Of Válmíki.txt",
+          "status": "migrated",
+          "size": 17048
+        },
+        {
+          "filename": "The Mahabharata in Sanskrit.txt",
+          "status": "migrated",
+          "size": 1140
+        },
+        {
+          "filename": "The Mahabharata.txt",
+          "status": "migrated",
+          "size": 4684
+        },
+        {
+          "filename": "The Ramayana and Mahabharata Abridged.txt",
+          "status": "migrated",
+          "size": 1574
+        },
+        {
+          "filename": "The Ramayana in Sanskrit.txt",
+          "status": "migrated",
+          "size": 813
+        }
+      ]
+    },
+    "Vedanta": {
+      "source": "sacred_texts_hindu\\Vedanta",
+      "target": "dharmaganj/ratnasagara/vedanta",
+      "files": [
+        {
+          "filename": "Select Works of Sri Sankaracharya.txt",
+          "status": "migrated",
+          "size": 959
+        },
+        {
+          "filename": "The Crest-Jewel of Wisdom.txt",
+          "status": "migrated",
+          "size": 982
+        },
+        {
+          "filename": "The Vedântâ-Sûtras Part I with Sankarâkârya commentary SBE 34.txt",
+          "status": "migrated",
+          "size": 2891
+        },
+        {
+          "filename": "The Vedântâ-Sûtras Part II with Sankarâkârya commentary SBE 38.txt",
+          "status": "migrated",
+          "size": 4614
+        },
+        {
+          "filename": "The Vedântâ-Sûtras with Râmânuja commentary SBE 48.txt",
+          "status": "migrated",
+          "size": 34070
+        }
+      ]
+    },
+    "Primary Texts": {
+      "source": "sacred_texts_hindu\\Primary Texts",
+      "target": "dharmaganj/ratnodadhi/sutra",
+      "files": [
+        {
+          "filename": "Satapatha Brahmana Part I SBE 12.txt",
+          "status": "migrated",
+          "size": 2551
+        },
+        {
+          "filename": "Satapatha Brahmana Part II SBE 26.txt",
+          "status": "migrated",
+          "size": 3248
+        },
+        {
+          "filename": "Satapatha Brahmana Part III SBE 41.txt",
+          "status": "migrated",
+          "size": 2874
+        },
+        {
+          "filename": "Satapatha Brahmana Part IV SBE 43.txt",
+          "status": "migrated",
+          "size": 2917
+        },
+        {
+          "filename": "Satapatha Brahmana Part V SBE 44.txt",
+          "status": "migrated",
+          "size": 4779
+        },
+        {
+          "filename": "The Grihya Sutras Part 1 SBE 29.txt",
+          "status": "migrated",
+          "size": 2951
+        },
+        {
+          "filename": "The Grihya Sutras Part 2 SBE 30.txt",
+          "status": "migrated",
+          "size": 2169
+        },
+        {
+          "filename": "The Institutes of Vishnu SBE 7.txt",
+          "status": "migrated",
+          "size": 1510
+        },
+        {
+          "filename": "The Laws of Manu.txt",
+          "status": "migrated",
+          "size": 444
+        },
+        {
+          "filename": "The Minor Law Books SBE 33.txt",
+          "status": "migrated",
+          "size": 3548
+        },
+        {
+          "filename": "The Sacred Laws of the Âryas Part I SBE 2.txt",
+          "status": "migrated",
+          "size": 2670
+        },
+        {
+          "filename": "The Sacred Laws of the Âryas Part II SBE 14.txt",
+          "status": "migrated",
+          "size": 2677
+        }
+      ]
+    },
+    "Later Texts": {
+      "source": "sacred_texts_hindu\\Later Texts",
+      "target": "dharmaganj/ratnasagara/yoga",
+      "files": [
+        {
+          "filename": "Hymns of the Tamil Saivite Saints.txt",
+          "status": "migrated",
+          "size": 1084
+        },
+        {
+          "filename": "Songs of Kabîr.txt",
+          "status": "migrated",
+          "size": 1211
+        },
+        {
+          "filename": "The Hatha Yoga Pradipika.txt",
+          "status": "migrated",
+          "size": 1656
+        },
+        {
+          "filename": "The Little Clay Cart.txt",
+          "status": "migrated",
+          "size": 2105
+        },
+        {
+          "filename": "The Sánkhya Aphorisms of Kapila.txt",
+          "status": "migrated",
+          "size": 652
+        },
+        {
+          "filename": "The Yoga Sutras of Patanjali Alternative.txt",
+          "status": "migrated",
+          "size": 900
+        },
+        {
+          "filename": "Verses of Vemana.txt",
+          "status": "migrated",
+          "size": 390
+        },
+        {
+          "filename": "Yoga Vashisht or Heaven Found.txt",
+          "status": "migrated",
+          "size": 2040
+        }
+      ]
+    },
+    "Modern Books": {
+      "source": "sacred_texts_hindu\\Modern Books",
+      "target": "dharmaganj/ratnaranjaka/vividha",
+      "files": [
+        {
+          "filename": "Fruit-Gathering.txt",
+          "status": "migrated",
+          "size": 54674
+        },
+        {
+          "filename": "Gitanjali.txt",
+          "status": "migrated",
+          "size": 76417
+        },
+        {
+          "filename": "Hindu Mysticism.txt",
+          "status": "migrated",
+          "size": 558
+        },
+        {
+          "filename": "Kali the Mother.txt",
+          "status": "migrated",
+          "size": 937
+        },
+        {
+          "filename": "Karma-Yoga.txt",
+          "status": "migrated",
+          "size": 1081
+        },
+        {
+          "filename": "Saddhana The Realisation of Life.txt",
+          "status": "migrated",
+          "size": 796
+        },
+        {
+          "filename": "Stray Birds.txt",
+          "status": "migrated",
+          "size": 31256
+        },
+        {
+          "filename": "Studies from an Eastern Home.txt",
+          "status": "migrated",
+          "size": 1520
+        },
+        {
+          "filename": "The Crescent Moon.txt",
+          "status": "migrated",
+          "size": 899
+        },
+        {
+          "filename": "The Home and the World.txt",
+          "status": "migrated",
+          "size": 1054
+        },
+        {
+          "filename": "The Indian Stories of FW Bain.txt",
+          "status": "migrated",
+          "size": 3314
+        },
+        {
+          "filename": "The Web of Indian Life.txt",
+          "status": "migrated",
+          "size": 2169
+        },
+        {
+          "filename": "Thought Relics.txt",
+          "status": "migrated",
+          "size": 286
+        },
+        {
+          "filename": "Writings of Rabindranath Tagore.txt",
+          "status": "migrated",
+          "size": 3087
+        },
+        {
+          "filename": "Writings of Sister Nivedita.txt",
+          "status": "migrated",
+          "size": 2083
+        }
+      ]
+    }
+  }
+}

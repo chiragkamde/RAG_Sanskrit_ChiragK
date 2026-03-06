@@ -1,0 +1,23 @@
+{
+  "total_verses": 85895,
+  "sources": {
+    "Itihasa": 85889,
+    "Bhagavad Gita": 2,
+    "Upanishads": 2,
+    "Vedas": 2
+  },
+  "categories": {
+    "Ramayana": 17179,
+    "Mahabharata": 68710,
+    "Bhagavad Gita": 2,
+    "Upanishad": 2,
+    "Veda": 2
+  },
+  "files_created": [
+    "nalanda_corpus_part_1.txt",
+    "nalanda_corpus_part_2.txt",
+    "nalanda_corpus_part_3.txt",
+    "nalanda_corpus_part_4.txt",
+    "nalanda_corpus_part_5.txt"
+  ]
+}

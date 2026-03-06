@@ -1,0 +1,43 @@
+The Mahabharata in Sanskrit Index | Internet Sacred Text Archive
+Sacred Texts
+Hinduism
+Mahabharata
+The Mahabharata in Sanskrit
+Parallel Devanagari and Romanization
+This the Sanskrit text of the Mahabharata in Sanskrit.
+This is derived from electronic files created by Prof. Muneo Tokunaga of Kyoto
+and edited by John D. Smith.
+Their data was used to generate parallel Devanagari and Romanization,
+using custom C programs created at sacred-texts.
+This text has been cross-referenced with Ganguli's
+English translation on a book-by-book basis.
+However, due to the mismatch in number of chapters per book, it was not
+possible to cross-reference this at the chapter level.
+IMPORTANT NOTE:
+This etext uses Unicode extensively.
+You will need to make sure that your browser is set up to view
+Unicode properly. For more information,
+read the Unicode page.
+Book 1
+Book 2
+Book 3
+Book 4
+Book 5
+Book 6
+Book 7
+Book 8
+Book 9
+Book 10
+Book 11
+Book 12
+Book 13
+Book 14
+Book 15
+Book 16
+Book 17
+Book 18
+Sacred Texts |
+Hinduism
+« Previous: The Laws of Manu
+Index
+Next: The Mahabharata in Sanskrit: Book 1: Chapter 1 »

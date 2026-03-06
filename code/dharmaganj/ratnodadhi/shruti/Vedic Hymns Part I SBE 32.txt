@@ -1,0 +1,153 @@
+Vedic Hymns, Part I (SBE32) Index | Internet Sacred Text Archive
+Sacred Texts
+Hinduism
+Buy this Book at Amazon.com
+Vedic Hymns, Part I (SBE32)
+Hymns to the Maruts, Rudra, Vâyu and Vâta
+by Max Müller
+[1891]
+Contents
+Start Reading
+Page Index
+Text [Zipped]
+Part I (SBE32)   |
+Part II (SBE46)
+The Veda, I feel convinced, will occupy scholars for centuries to come, and will take and maintain for ever its position as the most ancient of books in the library of mankind.--F. Max Müller, p. xxxi
+VI, 58, 3. yas te pûshan navah antáh samudré hiranyáyîh antárikshe káranti.
+Thy golden ships, O Pûshan, which move within the watery sky.--p. 61
+This is one of the pinnacles of
+19th century western Vedic scholarship.
+It is one of the three volumes in the
+Sacred Books of the East
+which Max Müller, the series editor, was the sole author of.
+Müller focuses here on four dozen hymns in the Rigvedas
+to the 'Storm Gods:' the Maruts.
+Distant relations of Mars, Thor, and Ares, the Maruts are
+Vedic-era deities associated with lightning, thunder, and the heavens.
+If you excerpted just the translations, this would amount to about sixty pages.
+The full book weighs in at 550 pages.
+The true value of this work is Müller's deep analysis
+of the mythological, linguistic and poetic background of the hymns.
+The index, which gives every root form of every word in the text,
+is practically a skeleton key to Vedic Sanskrit.
+PRODUCTION NOTES: This book took nearly two months of
+focused work to transcribe, and
+a total of four proof passes, as conventional OCR technology is unable
+to handle many of the aspects of this book at this point in time.
+Unicode implementations and
+web browsers are only
+now catching up with the typography used here.
+My goal was to reproduce the book in its entirety with all of the
+metrical markup in place.
+Only in one case did I have to compromise: the start of elision is indicated
+by a Unicode combining double inverted breve (0x361); but the
+end of the overbarred section is indicated by a green asterisk, e.g.
+hă͡rĭ*bhīr (p. ciii).
+--John Bruno Hare, June 28th, 2008.
+Title Page
+Contents
+Introduction
+Preface to the First Edition
+Part 1
+Part 2
+Part 3
+Part 4
+Part 4
+Part 5
+Part 6
+Part 7
+Part 8
+Part 9
+Part 10
+Part 11
+Vedic Hymns
+X, 121. To the Unknown God
+I, 6. To Indra and the Maruts (the Storm-gods)
+I, 19. To Agni (the god of Fire) and the Maruts (the Storm-gods)
+I, 37. To the Maruts (the Storm-Gods)
+I, 38. To the Maruts (The Storm-gods)
+I, 39. To the Maruts (The Storm-gods)
+I, 64. To the Maruts (the Storm-gods)
+I, 85. To the Maruts (the Storm-gods)
+I, 86. To the Maruts (the Storm-gods)
+I, 87. To the Maruts (the Storm-gods)
+I, 88. To the Maruts (the Storm-gods)
+I, 165. To the Maruts and Indra
+I, 166. To the Maruts (the Storm-gods)
+I, 167. To the Maruts (the Storm-gods)
+I, 168. To the Maruts (the Storm-gods)
+I, 170. Dialogue between Indra and his Worshipper, Agastya
+I, 171. To the Maruts (the Storm-gods)
+I, 172. To the Maruts (the Storm-gods)
+II, 34. To the Maruts (the Storm-gods)
+V, 52. To the Maruts (the Storm-gods)
+V, 53. To the Maruts (the Storm-gods)
+V, 54. To the Maruts (the Storm-gods)
+V, 55. To the Maruts (the Storm-gods)
+V, 56. To the Maruts (the Storm-gods)
+V, 57. To the Maruts (the Storm-gods)
+V, 58. To the Maruts (the Storm-gods)
+V, 59. To the Maruts (the Storm-gods)
+V, 60. To Agni and the Maruts
+V, 61. To the Maruts (the Storm-gods)
+V, 87. To the Maruts (the Storm-gods)
+VI, 66. To the Maruts (the Storm-gods)
+VII, 56. To the Maruts (the Storm-gods)
+VII, 57. To the Maruts (the Storm-gods)
+VII, 58. To the Maruts (the Storm-gods)
+VII, 59. To the Maruts and Rudra
+VIII, 7. To the Maruts (the Storm-gods)
+VIII, 20. To the Maruts (the Storm-gods)
+VIII, 94. To the Maruts (the Storm-gods)
+X, 77. To the Maruts (the Storm-gods)
+X, 78. To the Maruts (the Storm-gods)
+I, 43. To Rudra
+I, 114. To Rudra
+II, 33. To Rudra, the Father of the Maruts (the Storm-gods)
+VI, 74. To Soma and Rudra
+VII, 46. To Rudra
+I, 2. To Vâyu
+I, 134. To Vâyu
+X, 168. To Vâta
+X, 186. To Vâta
+Appendices
+Introduction
+I. Index of Words
+A
+Â
+I
+Î
+U
+Û
+RI
+E
+AI, O, AU
+K
+KH
+G
+GH
+K
+KH
+G
+T
+D
+DH
+N
+P, PH
+B
+BH
+M
+Y
+R, L
+V
+S
+S
+H
+II. List of Important Passages
+III. A Bibliographical List of the More Important Publications on the Rig-Veda
+Corrigenda
+Sacred Texts |
+Hinduism
+« Previous: Errata
+Index
+Next: Vedic Hymns, Part I (SBE32): Page Index »
